@@ -17,7 +17,7 @@ int	main(void)
 	while (1)
 	{
 		sleep(1);
-		/* if statement vor debug prints */
+		/* if statement before debug prints */
 		if (debug_on)
 			printf("test123\n");
 	}
